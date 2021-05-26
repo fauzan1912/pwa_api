@@ -1,31 +1,26 @@
 {
  "project":[
-  {
-  "id": 1,
+   {
   "nama": "Bigtax",
   "kategori": "Mobile",
   "deskripsi": "com.cbsnews.Viva",
   "gambar": "p1.jpg"
 }, {
-  "id": 2,
   "nama": "Konklab",
   "kategori": "Web",
   "deskripsi": "net.earthlink.Job",
   "gambar": "p2.jpg"
 }, {
-  "id": 3,
   "nama": "Bitchip",
   "kategori": "Mobile",
   "deskripsi": "com.theguardian.Aerified",
   "gambar": "p3.jpg"
 }, {
-  "id": 4,
   "nama": "Pannier",
   "kategori": "Web",
   "deskripsi": "ru.ucoz.Job",
   "gambar": "p4.jpg"
 }, {
-  "id": 5,
   "nama": "Latlux",
   "kategori": "Mobile Web",
   "deskripsi": "jp.co.rakuten.Tres-Zap",
